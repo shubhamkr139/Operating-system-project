@@ -1,2 +1,2 @@
 # Operating-system-project
-This is my First OS assignment
+OS assignment Disease prediction system
