@@ -23,7 +23,7 @@ void res_request(int A[10][10],int Y[10][10],int AV[10][10],int pid,int m)
  printf("\n Enter additional request : \n");
  for(i=0;i<m;i++)
   {         
-     printf(" Request for resource %d : ",i+1); 
+     printf(" Request for the resource %d : ",i+1); 
      scanf("%d",&reqmat[0][i]); 
   } 
  
